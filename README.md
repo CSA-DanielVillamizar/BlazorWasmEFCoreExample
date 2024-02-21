@@ -109,6 +109,3 @@ Submit any feedback, questions, suggestions, or issues [here](https://github.com
 
 Regards,
 
-![Jeremy Likness](https://blog.jeremylikness.com/images/jeremylikness.gif)
-
-[@JeremyLikness](https://twitter.com/JeremyLikness)
