@@ -51,7 +51,7 @@ For the latest version, read about the latest round of refactoring here:
 1. Optionally fork the repository.
 1. Clone the repository (or your fork): 
 
-   `git clone https://github.com/jeremylikness/BlazorWasmEFCoreExample.git`
+   `git clone [https://github.com/jeremylikness/BlazorWasmEFCoreExample](https://github.com/CSA-DanielVillamizar/BlazorWasmEFCoreExample).git`
 1. If you don't have `localdb` installed, update `appsettings.json` and `appsettings.Development.json` in the `ContactsApp.Server` project to point to a valid database instance. 
 1. The `DefaultConnection` is used for identity and can have any database name.
 1. The `blazorcontactsdb` is used for the application database and must match `ContactContext.BlazorContactsDb` in the `ContactsApp.DataAccess` project (the default value is `blazorcontactsdb`).
